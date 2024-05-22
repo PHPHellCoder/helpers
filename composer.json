@@ -13,7 +13,7 @@
     ],
     "require": {
         "php": ">=7.0.0",
-        "phphellcoder/open-admin": "~1.0"
+        "phphellcoder/open-admin": "dev-bugfix"
     },
     "autoload": {
         "psr-4": {
